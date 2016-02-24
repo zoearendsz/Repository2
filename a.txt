@@ -1,2 +1,6 @@
 Text file a.txt for bob and alice
+<<<<<<< HEAD
 Bob is modifying.
+=======
+Modifying changes here
+>>>>>>> github/master
